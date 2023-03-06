@@ -1,0 +1,15 @@
+Lê Hữu Cương - SE171154 - Leader (+0,5) Tổng hợp lại tất cả(Sửa lỗi code, đưa tất cả hàm về cùng 1 dạng, code lại các hàm + tìm euler + convert 2) + Tìm hàm Load từ SQL + Làm thuật toán Prim 
+
+(Phạm Nguyễn Việt Dũng - SE172868    +	Phan Quốc Khải - SE172631) -> Tìm hàm Load(file_path) từ file + convert 1
+
+Võ Nhật Nam - SE173138	-> Tìm BFS + DFS 
+
+Nguyễn Minh Nguyệt - SE172621 -> Findpath(vertex X, vertex Y) //use Dijkstra
+
+(Lê Hồng Phúc - SE172680      +     Võ Nguyễn Anh Phú - SE172679) ->Tìm Euler
+
+Nguyễn Minh Khôi - SE172625 
+
+
+
+
